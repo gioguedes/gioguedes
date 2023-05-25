@@ -1,0 +1,66 @@
+
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.home {
+    padding: 54px 0;
+    background-color: #00233ae5;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 5%;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+}
+
+.home #container {
+    margin: 150px;
+    text-align: center;
+    padding: 0;
+}
+
+.home #container #title {
+    font-size: 96px;
+    color: rgb(255, 255, 255);
+}
+
+.home #container #subtitle {
+    font-size: 20px;
+    color: #ffffff7a;
+    font-weight: lighter;
+    margin: 18px 0;
+}
+
+.about .container {
+    display: flex;
+    align-items: center;
+}
+
+.about .about-text {
+    width: 50%;
+    padding: 0 40px;
+}
+
+.about .about-text h1 {
+    font-size: 56px;
+}
+
+.about .about-text p {
+    margin: 5px 0 10px 0;
+}
+.about .about-img {
+    width: 50%;
+}
+
+.about .about-img img {
+    width: 100%;
+    height: 680px;
+
+}
