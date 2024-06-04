@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&fontColor=red"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Meu nome é Giovanne Guedes, sou estudante e atualmente estou cursando Ciência da Computação, com o intuito de aprender mais sobre programação e me aperfeiçoar como pessoa. No meu GitHub postarei projetos dos quais desenvolverei.</p>&nbsp;
+<p align="center">Olá! Sou Giovanne, um apaixonado por tecnologia e inovação. Atualmente, estou mergulhando fundo no mundo da Ciência da Computação, onde busco transformar ideias em soluções concretas e impactantes. Minha jornada no universo tecnológico é guiada pela curiosidade e pelo desejo de fazer a diferença através do código.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioguedes&layout=compact" />
