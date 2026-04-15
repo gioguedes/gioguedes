@@ -1,64 +1,41 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header" alt="header"/>
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=header&fontColor=red"/>
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">Olá! Sou Giovanne, um apaixonado por tecnologia e inovação. Atualmente, estou mergulhando fundo no mundo da Ciência da Computação, onde busco transformar ideias em soluções concretas e impactantes. Minha jornada no universo tecnológico é guiada pela curiosidade e pelo desejo de fazer a diferença através do código.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioguedes&layout=donut-vertical"/>
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-
-## My Skills
-
-#### Main Stack:
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Secondary Stack:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
-![Java Script](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### Studying in this moment:
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-#### Databases:
-
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=58A6FF&width=500&lines=Olá%2C+sou+Giovanne+Morgado!;Desenvolvedor+Full+Stack;Estudante+de+Ciência+da+Computação" alt="Typing SVG"/>
+</a>
 
 &nbsp;
+
+Desenvolvedor apaixonado por tecnologia, atualmente trabalhando na **Mérito Investimentos** onde construo dashboards comerciais e ferramentas internas de alta performance. Estudante de Ciência da Computação na Universidade Paulista, buscando sempre transformar ideias em soluções reais — do planejamento ao deploy.
+
 &nbsp;
 
-## Contacts:
+### Main Skills
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,py,java,html,css,nodejs,spring,postgres,mysql,docker,git,github,linux,vscode,idea,figma)](https://skillicons.dev)
 
-<div> 
-<a href = "mailto:giovannemorgado77@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/giovanne-guedes-86b39b15a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)&nbsp;
 
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&fontColor=red"/>
+### Studying right now
+[![Learning](https://skillicons.dev/icons?i=ts,nextjs,docker,postgres)](https://skillicons.dev)
+
+&nbsp;
+
+### Connect with me!
+<div>
+  <a href="mailto:giovannemorgado77@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/giovanne-guedes-86b39b15a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+  </a>
+</div>
+
+&nbsp;
+
+<div align="center">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gioguedes&layout=compact&theme=github_dark&hide_border=true"/>
+</div>
+
+&nbsp;
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=footer" alt="footer"/>
